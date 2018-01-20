@@ -12,16 +12,16 @@ account and you make sure to delete old keys from your account.
 
 #### Binaries
 
-- **darwin** [386](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-darwin-386) / [amd64](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-darwin-amd64)
-- **freebsd** [386](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-freebsd-386) / [amd64](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-freebsd-amd64)
-- **linux** [386](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-linux-386) / [amd64](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-linux-amd64) / [arm](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-linux-arm) / [arm64](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-linux-arm64)
-- **solaris** [amd64](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-solaris-amd64)
-- **windows** [386](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-windows-386) / [amd64](https://github.com/jessfraz/sshb0t/releases/download/v0.2.0/sshb0t-windows-amd64)
+- **darwin** [386](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-darwin-386) / [amd64](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-darwin-amd64)
+- **freebsd** [386](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-freebsd-386) / [amd64](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-freebsd-amd64)
+- **linux** [386](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-linux-386) / [amd64](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-linux-amd64) / [arm](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-linux-arm) / [arm64](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-linux-arm64)
+- **solaris** [amd64](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-solaris-amd64)
+- **windows** [386](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-windows-386) / [amd64](https://github.com/clementlecorre/sshb0t/releases/download/v0.2.0/sshb0t-windows-amd64)
 
 #### Via Go
 
 ```bash
-$ go get github.com/jessfraz/sshb0t
+$ go get github.com/clementlecorre/sshb0t
 ```
 
 #### Running with Docker
@@ -59,4 +59,4 @@ $ docker run -d --restart always \
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-29404280-16/sshb0t/README.md)](https://github.com/jessfraz/sshb0t)
+[![Analytics](https://ga-beacon.appspot.com/UA-29404280-16/sshb0t/README.md)](https://github.com/clementlecorre/sshb0t)
